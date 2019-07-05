@@ -21,7 +21,6 @@ Liste des packages utilisés
 | Vue-moment | https://www.npmjs.com/package/vue-moment | Gestion des dates (voir MomentJS) |
 | Vue-paginate | https://github.com/TahaSh/vue-paginate | Pagination |
 | Vue-spinner | https://github.com/greyby/vue-spinner | Set de loader |
-| Vue-stripe-elements-plus | https://www.npmjs.com/package/vue-stripe-elements-plus | Stripe pour vue |
 | Vue2-touch-events | https://www.npmjs.com/package/vue2-touch-events | Gestion des évènements du doigt en mobile (Voir HammerJS) |
 | SplittingJS | https://splitting.js.org/ | Gestion des grilles HTML pour animations |
 
