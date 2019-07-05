@@ -13,6 +13,15 @@ http://decruydtjulien.fr/driing
 VueJS
 Sass
 
+
+# Instalation du projet
+
+1. clone le dossier
+2. npm i
+3. ncu -u (installer npm ncu)
+4. npm run serve dans le dossier principale
+
+
 ## **Packages**
 
 Liste des packages utilisés 
