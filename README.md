@@ -1,12 +1,7 @@
-**NOVAVOCAT** v3.X.X
-> *v3.0.9*
+**Driing front** v1.X.X
+> *v1.0.0*
 
-Refonte du repository ***"Dashboard Avocat"***
-Ceci est la partie **FRONT**
-
-Designed by Fred
-
-http://51.75.202.146:10120/#/
+http://decruydtjulien.fr/driing
 
 **Outils :** 
 VueJS
@@ -100,56 +95,9 @@ Pour mettre la bonne version, **installer ncu ** et ensuite taper **ncu -u**
 
 
 
-**v3.0.9**
+**v1.0.0**
   
- - Ajout résumé dans le tunnel
- - Retour sur le design
- 
- **v3.0.8**
-  
- - Ajout de la création d'une entreprise dans le tunnel
- - Raccords design
- - Débugs générales
- - Paiement amélioré
- 
-**v3.0.7**
-  
- - Raccords design après retours
- 
- **v3.0.6**
-  
- - Ajout du module de récupération de mot de passe
- - Légères améliorations de la partie graphique mobile
- - Débugs généraux
- 
-**v3.0.5** (**Version envoyée pour la mise en prod en ligne**)
-  
- - Débug paiement
- - Ajout de la redirection de fin de question
-
-
- **v3.0.4**
-
- - Raccordement du design par rapport à la maquette pour la version desktop
- - Ajout des icons "Bulles" (**icone attente manquant**)
- - Ajout de la visualisation des fichiers de la question
- 
- 
-**v3.0.3**
-
- - Raccordement du design par rapport à la maquette pour la version desktop
- - Débug stripe
-
-
-**v3.0.2**
-
- - Débug et modifications version mobile
- (QuestionView et tunnel)
- - Version desktop continuité
- - Raccordement du design par rapport à la maquette pour la version desktop
-
-
-**v3.0.1**
-
- - Version mobile
- - Version desktop (Presque terminée)
+ - Login
+ - Inscription
+ - Dashboard
+ - Tickets / communautés / groupe / profil
